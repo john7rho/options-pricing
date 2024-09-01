@@ -19,6 +19,12 @@ The model uses the Adam optimizer with a learning rate of 0.001 and is compiled 
 
 This architecture allows the model to capture both long-term dependencies in the time series data through the LSTM layers and make a final prediction through the dense layers.
 
+## Selected Results
+
+![image](https://github.com/user-attachments/assets/f0e9d990-d6a9-4d00-93d8-da6ebb432a23)
+
+![image](https://github.com/user-attachments/assets/8ef7c4f5-3297-4362-9862-a2cd80dc3fd0)
+
 ### Interpretation
 
 1. Deep Learning RMSE: 0.1600
